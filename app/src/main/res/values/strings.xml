@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">YogaBook Holo Keyboard</string>
+
+    <string name="available_languages_label">Available</string>
+    <string name="add_layout_label">Add layout</string>
+    <string name="enabled_languages_label">Enabled</string>
+
+    <string name="yogabook_holo_keyboard_label">YogaBook Holo Keyboard</string>
+    <string name="yogabook_holo_keyboard_subtype_label">Multilingual typing</string>
+
+
+
+    <string name="available_layouts_key">available_layouts</string>
+    <string name="enabled_layouts_key">enabled_layouts</string>
+    <string name="floating_notification_enabled_key">floating_notification_enabled</string>
+    <string name="short_2_symbols_enabled_key">short_2_symbols_enabled</string>
+
+    <string name="pref_header_layouts">Layouts</string>
+
+
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_floating_notification_notifications">Floating Notification</string>
+    <string name="pref_title_enabled">Enabled</string>
+    <string name="pref_title_short_2_symbol_notifications">Always 2 symbols</string>
+
+
+    <string name="pref_shortcuts_layout_switching_label">Layout Switching</string>
+    <string name="pref_shortcuts_generic_shortcuts_label">Generic Shortcuts</string>
+    <string name="pref_shortcuts_custom_shortcuts_label">Custom Shortcuts</string>
+    <string name="pref_shortcuts_layout_switching_mode_label">Switching Mode</string>
+    <string name="layout_switching_mode_key">layout_switching_mode</string>
+
+    <string name="shortcuts_layout_switching_mode_globaly_val">GLOBALY</string>>
+    <string name="shortcuts_layout_switching_mode_per_application_val">PER_APPLICATION</string>>
+
+    <string-array name="pref_shortcuts_layout_switching_mode_titles">
+        <item>Global</item>
+        <item>Per Application</item>
+    </string-array>
+    <string-array name="pref_shortcuts_layout_switching_mode_values">
+        <item>@string/shortcuts_layout_switching_mode_globaly_val</item>
+        <item>@string/shortcuts_layout_switching_mode_per_application_val</item>
+    </string-array>
+
+    <string name="pref_header_shortcuts">Shortcuts</string>
+
+
+    <string name="invalid_shortcut_label">Invalid shortcut&#8230;</string>
+    <string name="wait_fot_shortcut_label">Press the combination of keys (modifiers + key)</string>
+
+    <string name="ctrl_left_label">Left CTRL</string>
+    <string name="ctrl_right_label">Right CTRL</string>
+    <string name="alt_left_label">Left ALT</string>
+    <string name="alt_right_label">Right ALT</string>
+    <string name="shift_left_label">Left SHIFT</string>
+    <string name="shift_right_label">Right SHIFT</string>
+    <string name="function_label">Fn</string>
+    <string name="page_up_label">PgUp</string>
+    <string name="page_down_label">PgDn</string>
+    <string name="del_label">Back Space</string>
+    <string name="forward_del_label">Delete</string>
+    <string name="grave_label">`</string>
+
+    <string name="none_label">None</string>
+
+    <string name="pref_shortcuts_layout_switching_to_next_layout_shortcut_label">Switch to next Layout</string>
+    <string name="pref_shortcuts_layout_switching_to_some_layout_shortcut_label">Switch to Layout %1$d</string>
+    <string name="pref_shortcuts_layout_switching_to_some_layout_shortcut_key">switch_to_some_layout_shortcut_%1$d</string>
+    <string name="pref_shortcuts_layout_switching_to_next_layout_shortcut_key">switch_to_next_layout_shortcut</string>
+    <string name="pref_shortcuts_layout_switching_show_hide_floating_notification_label">Show/Hide Floating Notification</string>
+    <string name="pref_shortcuts_layout_switching_show_hide_floating_notification_key">show_hide_floating_notification</string>
+    <string name="pref_shortcuts_layout_switching_to_next_layout_shortcut_default">SHIFT_LEFT,SPACE</string>
+
+    <string-array name="pref_shortcuts_layout_switching_to_next_layout_shortcut_values">
+        <item>SHIFT_LEFT,ALT_LEFT</item>
+        <item>SHIFT_RIGHT,ALT_RIGHT</item>
+        <item>CTRL_LEFT,ALT_LEFT</item>
+        <item>CTRL_RIGHT,ALT_RIGHT</item>
+        <item>CTRL_LEFT,SHIFT_LEFT</item>
+        <item>CTRL_RIGHT,SHIFT_RIGHT</item>
+        <item>ALT_LEFT,SPACE</item>
+        <item>ALT_RIGHT,SPACE</item>
+        <item>SHIFT_LEFT,SPACE</item>
+        <item>SHIFT_RIGHT,SPACE</item>
+    </string-array>
+
+</resources>
+

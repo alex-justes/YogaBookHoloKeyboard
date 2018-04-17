@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.justes.yogabook.holo_keyboard.wrapper">
+
+    <uses-permission
+        android:name="android.permission.SYSTEM_ALERT_WINDOW"
+        tools:remove="android:maxSdkVersion" />
+
+    <application
+        android:name=".ApplicationWrapper"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/yogabook_holo_keyboard_label">
+        </activity>
+
+        <service
+            android:name=".FloatingNotification" />
+
+        <service
+            android:name=".HoloIME"
+            android:label="@string/yogabook_holo_keyboard_label"
+            android:permission="android.permission.BIND_INPUT_METHOD">
+            <intent-filter>
+                <action android:name="android.view.InputMethod" />
+            </intent-filter>
+            <meta-data
+                android:name="android.view.im"
+                android:resource="@xml/input_method" />
+        </service>
+    </application>
+
+</manifest>

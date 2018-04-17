@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pref_title_floating_notification_notifications">
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="@string/floating_notification_enabled_key"
+        android:title="@string/pref_title_enabled" />
+    <SwitchPreference
+        android:defaultValue="false"
+        android:dependency="@string/floating_notification_enabled_key"
+        android:key="@string/short_2_symbols_enabled_key"
+        android:title="@string/pref_title_short_2_symbol_notifications" />
+    </PreferenceCategory>
+</PreferenceScreen>

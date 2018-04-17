@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="english_label">English</string>
+    <string name="german_label">German</string>
+    <string name="swiss_german_label">Swiss German</string>
+    <string name="swedish_label">Swedish</string>
+    <string name="french_label">French</string>
+    <string name="french_swiss_label">French Swiss</string>
+    <string name="french_canada__swiss_french_label">French (Canada) / Swiss French</string>
+    <string name="french_belgium__belgian_label">French (Belgium) / Belgian</string>
+    <string name="russian_label">Russian</string>
+    <string name="spanish_label">Spanish</string>
+    <string name="spanish_latin_label">Spanish Latin</string>
+    <string name="spanish_us_label">Spanish US</string>
+    <string name="bulgarian_label">Bulgarian</string>
+    <string name="italian_label">Italian</string>
+    <string name="danish_label">Danish</string>
+    <string name="norwegian_label">Norwegian</string>
+    <string name="finnish_label">Finnish</string>
+    <string name="croatian_label">Croatian</string>
+    <string name="dutch__netherlandish_label">Dutch / Netherlandish</string>
+    <string name="bopomofo__zhuyi_label">BoPoMoFo / Zhuyi</string>
+    <string name="czech_label">Czech</string>
+    <string name="estonian_label">Estonian</string>
+    <string name="hungarian_label">Hungarian</string>
+    <string name="icelandic_label">Icelandic</string>
+    <string name="brazilian_label">Brazilian</string>
+    <string name="portuguese_label">Portuguese</string>
+    <string name="slovak_label">Slovak</string>
+    <string name="slovenian_label">Slovenian</string>
+    <string name="turkish_label">Turkish</string>
+    <string name="ukrainian_label">Ukrainian</string>
+    <string name="arabic_label">Arabic</string>
+    <string name="greek_label">Greek</string>
+    <string name="hebrew_label">Hebrew</string>
+    <string name="lithuanian_label">Lithuanian</string>
+    <string name="latvian_label">Latvian</string>
+    <string name="polish_label">Polish</string>
+    <string name="romanian_label">Romanian</string>
+    <string name="serbian_label">Serbian</string>
+    <string name="cangjie_label">Cangjie</string>
+    <string name="japanese_label">Japanese</string>
+    <string name="thai_label">Thai</string>
+    <string name="vietnamese_label">Vietnamese</string>
+    <string name="hindi_label">Hindi</string>
+</resources>

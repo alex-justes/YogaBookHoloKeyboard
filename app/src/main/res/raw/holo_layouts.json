@@ -1,0 +1,217 @@
+[
+  {
+    "holo_layout": "english",
+    "short": "en",
+    "label": "english_label"
+  },
+  {
+    "holo_layout": "german",
+    "short": "de",
+    "label": "german_label"
+  },
+  {
+    "holo_layout": "germanch",
+    "short": "de",
+    "label": "swiss_german_label"
+  },
+  {
+    "holo_layout": "swedish",
+    "short": "sv",
+    "label": "swedish_label"
+  },
+  {
+    "holo_layout": "french",
+    "short": "fr",
+    "label": "french_label"
+  },
+  {
+    "holo_layout": "frenchch",
+    "short": "frs",
+    "label": "french_swiss_label"
+  },
+  {
+    "holo_layout": "frenchca",
+    "short": "frc",
+    "label": "french_canada__swiss_french_label"
+  },
+  {
+    "holo_layout": "frenchbe",
+    "short": "frb",
+    "label": "french_belgium__belgian_label"
+  },
+  {
+    "holo_layout": "russian",
+    "short": "ru",
+    "label": "russian_label"
+  },
+  {
+    "holo_layout": "spanish",
+    "short": "es",
+    "label": "spanish_label"
+  },
+  {
+    "holo_layout": "spanishlatin",
+    "short": "esl",
+    "label": "spanish_latin_label"
+  },
+  {
+    "holo_layout": "spanishus",
+    "short": "esu",
+    "label": "spanish_us_label"
+  },
+  {
+    "holo_layout": "bulgarian",
+    "short": "bg",
+    "label": "bulgarian_label"
+  },
+  {
+    "holo_layout": "italian",
+    "short": "it",
+    "label": "italian_label"
+  },
+  {
+    "holo_layout": "danish",
+    "short": "da",
+    "label": "danish_label"
+  },
+  {
+    "holo_layout": "norwegian",
+    "short": "no",
+    "label": "norwegian_label"
+  },
+  {
+    "holo_layout": "finnish",
+    "short": "fi",
+    "label": "finnish_label"
+  },
+  {
+    "holo_layout": "croatian",
+    "short": "cr",
+    "label": "croatian_label"
+  },
+  {
+    "holo_layout": "dutch",
+    "short": "nl",
+    "label": "dutch__netherlandish_label"
+  },
+  {
+    "holo_layout": "chinese_zhuyin",
+    "short": "zh",
+    "label": "bopomofo__zhuyi_label"
+  },
+  {
+    "holo_layout": "czech",
+    "short": "cz",
+    "label": "czech_label"
+  },
+  {
+    "holo_layout": "estonian",
+    "short": "et",
+    "label": "estonian_label"
+  },
+  {
+    "holo_layout": "hungarian",
+    "short": "hu",
+    "label": "hungarian_label"
+  },
+  {
+    "holo_layout": "icelandic",
+    "short": "is",
+    "label": "icelandic_label"
+  },
+  {
+    "holo_layout": "portuguese_br",
+    "short": "ptb",
+    "label": "brazilian_label"
+  },
+  {
+    "holo_layout": "portuguese_pt",
+    "short": "pt",
+    "label": "portuguese_label"
+  },
+  {
+    "holo_layout": "slovak",
+    "short": "sk",
+    "label": "slovak_label"
+  },
+  {
+    "holo_layout": "slovenian",
+    "short": "sl",
+    "label": "slovenian_label"
+  },
+  {
+    "holo_layout": "turkish",
+    "short": "tr",
+    "label": "turkish_label"
+  },
+  {
+    "holo_layout": "ukrainian",
+    "short": "uk",
+    "label": "ukrainian_label"
+  },
+  {
+    "holo_layout": "arabic",
+    "short": "ar",
+    "label": "arabic_label"
+  },
+  {
+    "holo_layout": "greek",
+    "short": "el",
+    "label": "greek_label"
+  },
+  {
+    "holo_layout": "hebrew",
+    "short": "he",
+    "label": "hebrew_label"
+  },
+  {
+    "holo_layout": "lithuanian",
+    "short": "lt",
+    "label": "lithuanian_label"
+  },
+  {
+    "holo_layout": "latvian",
+    "short": "lv",
+    "label": "latvian_label"
+  },
+  {
+    "holo_layout": "polish",
+    "short": "pl",
+    "label": "polish_label"
+  },
+  {
+    "holo_layout": "romanian",
+    "short": "ro",
+    "label": "romanian_label"
+  },
+  {
+    "holo_layout": "serbianlatin",
+    "short": "sr",
+    "label": "serbian_label"
+  },
+  {
+    "holo_layout": "chajie",
+    "short": "zhc",
+    "label": "cangjie_label"
+  },
+  {
+    "holo_layout": "japanese",
+    "short": "js",
+    "label": "japanese_label"
+  },
+  {
+    "holo_layout": "thai",
+    "short": "th",
+    "label": "thai_label"
+  },
+  {
+    "holo_layout": "vietnam",
+    "short": "vi",
+    "label": "vietnamese_label"
+  },
+  {
+    "holo_layout": "india",
+    "short": "hi",
+    "label": "hindi_label"
+  }
+]
