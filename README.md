@@ -16,9 +16,11 @@ It was tested on YB1-X90L with Nougat 7.1.1 (software version: YB-X90L_171013) b
 
 ## Installation
 
-1. Download and check MD5 checksum of the latest build:
-    APK: apk/YogaBook_HoloKeyboard_0.1a.apk
+1. Download and check MD5 checksum of the latest build ([link](https://github.com/alex-justes/YogaBookHoloKeyboard/raw/master/apk/YogaBook_HoloKeyboard_0.1a.apk)):
+```
+    APK: apk/YogaBook_HoloKeyboard_0.1a.apk 
     MD5: 39b36e2fab27de1e74d97e19eae157e0
+```
 2. Enable installation from Unknown sources (Settings -> Security -> Unknown sources)
 3. Upload apk to your tablet and install 
 4. Go to Settings -> Languages & input -> Virtual keyboard -> Manage keyboards 
