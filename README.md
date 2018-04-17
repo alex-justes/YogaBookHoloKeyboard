@@ -14,6 +14,15 @@ This only will work on Lenovo Yoga Book YB1 with Android onboard.
 
 It was tested on YB1-X90L with Nougat 7.1.1 (software version: YB-X90L_171013) but it should also work on F version and older android (probably).
 
+## Features
+
+1. Switch to different layout (supported by holo keyboard)
+2. Customize some shortcuts
+3. Floating notification with current layout
+4. Switching modes: Global or Per application
+5. No touchal (it is just plain physical keyboard now)
+6. No root required
+
 ## Installation
 
 1. Download and check MD5 checksum of the latest build ([link](https://github.com/alex-justes/YogaBookHoloKeyboard/raw/master/apk/YogaBook_HoloKeyboard_0.1a.apk)):
