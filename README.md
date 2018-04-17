@@ -10,6 +10,10 @@ No root required.
 
 ## Notice
 
+IT IS NOT A VIRTUAL KEYBOARD!
+
+You need to switch to other input method (swift keyboard, gboard, etc) to use virtual keyboard.
+
 This only will work on Lenovo Yoga Book YB1 with Android onboard.
 
 It was tested on YB1-X90L with Nougat 7.1.1 (software version: YB-X90L_171013) but it should also work on F version and older android (probably).
