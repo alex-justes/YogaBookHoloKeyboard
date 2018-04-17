@@ -37,7 +37,7 @@ It was tested on YB1-X90L with Nougat 7.1.1 (software version: YB-X90L_171013) b
 6. Tap on the YogaBook Holo Keyboard entry to open Settings
 7. Add layouts that you need by clicking Add layout button (you can reoder them later or remove)
 8. Go to Nofications and enable Floating Notification (you will be prompted to give it some permissions (to draw over other apps))
-9. When notification will appear in bottom-left corner you can move it to any desired location.
+9. When notification will appear in bottom-left corner you can move it to any desired location by touch-and-drag it.
 10. Go to Shortcuts and make sure, that your configuration is correct
 11. Switch to YogaBook Holo Keyboard input method (i.e. by pressing F10)
 12. Enjoy!
@@ -52,6 +52,7 @@ Maybe i will make some workarounds, but you shouldn't rely on this.
 ## Future work
 
 1. Add custom shortcuts for different actions (open an app, etc)
+2. Clean up code
 
 ## For developers
 
