@@ -60,6 +60,8 @@ Maybe i will make some workarounds, but you shouldn't rely on this.
 
 ## For developers
 
+That was hardcoded by lenovo. To change layots and get notifications about it you can do the following in your own code:
+
 To switch to other layout (available layouts you can get from resources/raw/holo_layouts.json): 
 
 ```
